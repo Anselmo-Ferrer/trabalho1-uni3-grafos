@@ -1,8 +1,4 @@
-# Trabalho Prático 1 — Unidade 3 — Grupo F
-
-**Disciplina:** Resolução de Problemas com Grafos
-**Orientador:** Prof. Me Ricardo Carubbi
-
+# Trabalho Prático 
 ---
 
 ## Nome do problema
@@ -12,14 +8,6 @@
 ## Link do problema
 
 <https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3676>
-
-## Integrantes do grupo
-
-| Nome | Matrícula |
-| --- | --- |
-| Anselmo Teixeira | 2410414 |
-| João Marcelo Jucá | 2410392 |
-| Thiago Victor Ferreira | 2410413 |
 
 ## Linguagem utilizada
 
